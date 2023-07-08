@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/apply', function () {
-    return view('apply');
+    return view('visa.apply');
 });
 
 

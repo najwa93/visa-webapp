@@ -1,7 +1,7 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Najwa
- * Date: 02/07/2023
- * Time: 11:56 PM
- */
+@extends('layouts.layout')
+
+@section('content')
+
+    <button class="btn btn-primary">Najwa</button>
+
+@endsection
